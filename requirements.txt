@@ -1,0 +1,7 @@
+datasets
+bitsandbytes
+torch
+torchvision
+transformers[torch]
+peft
+accelerate
